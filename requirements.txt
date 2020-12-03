@@ -1,3 +1,12 @@
-flask
-easyocr
-requests
+certifi==2020.11.8
+chardet==3.0.4
+fastapi==0.62.0
+idna==2.10
+numpy==1.19.4
+opencv-python==4.4.0.46
+Pillow==8.0.1
+pydantic==1.7.3
+pytesseract==0.3.6
+requests==2.25.0
+starlette==0.13.6
+urllib3==1.26.2
